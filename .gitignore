@@ -1,0 +1,19 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python (scripts/)
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local scratch — never committed, never linked from an index
+_scratch/
+_to_delete/
+
+# Rendered output, if a generator is ever added
+site/
+_build/
